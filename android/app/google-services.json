@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1085418792105",
+    "project_id": "weather-forecast-app-6be50",
+    "storage_bucket": "weather-forecast-app-6be50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085418792105:android:1595ef14fac526f81435b8",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085418792105-p95ffng725skeqn3ebjv72hqi432cfn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCva0geErpIRjSrqkVURD2VkSCqKDfvIAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085418792105-p95ffng725skeqn3ebjv72hqi432cfn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085418792105:android:a6a9a69b473a8fea1435b8",
+        "android_client_info": {
+          "package_name": "com.example.thirty_widgets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085418792105-p95ffng725skeqn3ebjv72hqi432cfn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCva0geErpIRjSrqkVURD2VkSCqKDfvIAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085418792105-p95ffng725skeqn3ebjv72hqi432cfn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
